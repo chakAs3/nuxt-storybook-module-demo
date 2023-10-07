@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "@nuxtjs/storybook": "rc",
+    "@nuxtjs/storybook": "7.0.0",
     "nuxt": "3.6.5",
     "storybook": "7.5.0-alpha.3",
     "@storybook-vue/nuxt": "0.1.7",
